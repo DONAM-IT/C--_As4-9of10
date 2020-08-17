@@ -1,0 +1,2 @@
+https://localhost:44330/WebService1.asmx
+https://localhost:44326/WebForm1.aspx
